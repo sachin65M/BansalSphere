@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535352436157",
+    "project_id": "bansal-sphere-user-apk-sm",
+    "storage_bucket": "bansal-sphere-user-apk-sm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535352436157:android:64a03999c6fad733b4ded4",
+        "android_client_info": {
+          "package_name": "com.sm.bansalsphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535352436157-9r6ff9jtv5l3t4356mbc7lc3v154je51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlu6d-ZIRkxzZDSamZo8MLlIOQerWdUQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535352436157-9r6ff9jtv5l3t4356mbc7lc3v154je51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
